@@ -1,0 +1,25 @@
+{
+  "name": "fortune-cookie",
+  "description": "Proyecto final de PAW",
+  "main": "server.js",
+  "authors": [
+    "DAL"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Server"
+  ],
+  "homepage": "https://github.com/Dan776842/fortunecookie",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
