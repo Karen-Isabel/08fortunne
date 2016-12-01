@@ -3,13 +3,13 @@
   "description": "Proyecto final de PAW",
   "main": "server.js",
   "authors": [
-    "DAL"
+    "Karen"
   ],
   "license": "ISC",
   "keywords": [
     "Server"
   ],
-  "homepage": "https://github.com/Dan776842/fortunecookie",
+  "homepage": "#",
   "private": true,
   "ignore": [
     "**/.*",
@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "sweetalert": "^1.1.3"
+    "sweetalert": "^1.1.3",
+    "jquery": "^3.1.1"
   }
 }
